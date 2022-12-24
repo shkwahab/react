@@ -1,0 +1,21 @@
+/*=========================
+	All css
+==========================*/
+@import url("../plugins/bootstrap/css/bootstrap.min.css");
+@import url("../plugins/fontawesome/css/font-awesome.min.css");
+@import url("../plugins/line-awesome/css/line-awesome.min.css");
+@import url("../plugins/themify/themify-icons.css");
+@import url("../plugins/animate/animate.css");
+@import url("../plugins/flaticon/flaticon.css");
+
+/*=========================
+	All css
+==========================*/
+@import url('https://fonts.googleapis.com/css?family=Amita:400,700|Open+Sans:300,400,600,700,800|Poppins:100,200,300,400,500,600,700,800,900|Roboto:100,300,400,500,700,900&display=swap');
+
+/* 
+font-family: 'Roboto', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Amita', sans-serif;
+*/

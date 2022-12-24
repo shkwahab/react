@@ -1,0 +1,48 @@
+{
+  "name": "restaurant",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fullcalendar/daygrid": "^5.5.0",
+    "@fullcalendar/react": "^5.5.0",
+    "bootstrap": "^4.5.3",
+    "react": "^16.14.0",
+    "react-animated-slider": "^1.1.4",
+    "react-bootstrap": "^1.4.0",
+    "react-countup": "^4.3.3",
+    "react-dom": "^16.14.0",
+    "react-image-lightbox": "^5.1.1",
+    "react-masonry-component": "^6.2.1",
+    "react-masonry-css": "^1.0.14",
+    "react-multi-carousel": "^2.6.1",
+    "react-rev-slider": "^1.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.4",
+    "react-slick": "^0.25.2",
+    "reactstrap": "^8.7.1",
+    "simple-react-google-maps": "^1.1.2",
+    "simple-react-lightbox": "^3.5.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
